@@ -1,0 +1,25 @@
+ Hi,  I am             , having    + years of exp in    ....  development.
+
+I have involved into all the application life cycle phases, requirement Identification, analysis, Implementation, testing and deployment.
+
+Having good experience in Object Oriented Concepts and Data Structures like tuples,list and dictionaries
+
+I have been using threading and Lambda features with Dataframe packages like Pandas and Numpy.
+
+Worked with multiple MVT frameworks like DJango and Flask and implemented the solutions
+
+I am good in Databases like sqlite, Mysql, Oracle and Postgres
+
+Using JSON and REST for Interface Interaction and development.
+
+Implemented the testing framework using Pytest and Debugging with pdb
+
+As participating in Full Stack development I involved majorly in Backend area and having Exposure to Front End.
+
+Well experience with Agile Methodology events like Daily Scrum, Sprint Plan, Retrospection etc and Following the TDD(Test driven development).
+
+Following the development process involved in team management and status reporting
+
+Good Exposure towards Code Repository Using GIT and Jenkins
+
+Comfortable knowledge with cloud services in AWS (S3,EC2) etc
